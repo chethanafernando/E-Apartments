@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\MZS\source\repos\E-Apartments\Properties\PublishProfiles\ClickOnceProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="ApartmentClasses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Apartments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AvailableApartments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Classes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dependent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Extensions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lease.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LeaseAgreement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Occupant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Park.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Payment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RefundRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Refunds.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RequestExtension.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reservation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WaitingList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
